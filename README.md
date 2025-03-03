@@ -15,23 +15,19 @@ Este projeto é um desafio prático de desenvolvimento web, onde recriei a inter
 
 ## 🔧 Instalação e Execução
 
-1. Clone este repositório:
+1. Instale as dependências:
+	  ```sh
+	 npm install
+	 ```
+2. Clone este repositório:
 	 ```sh
 	 git clone https://github.com/BrunoHenriqueOliveira/PlayStation-store.git
 	 ```
-2. Acesse o diretório do projeto:
-	 ```sh
-	 cd nome-do-repositorio
-	 ```
-3. Instale as dependências:
-	 ```sh
-	 npm install
-	 ```
-4. Execute o projeto em modo de desenvolvimento:
+3. Execute o projeto em modo de desenvolvimento:
 	 ```sh
 	 ng serve
 	 ```
-5. Acesse no navegador:
+4. Acesse no navegador:
 	 ```sh
 	 http://localhost:4200
 	 ```
